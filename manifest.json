@@ -1,0 +1,18 @@
+{
+  "name": "Fodé Génie Civil & Tech",
+  "short_name": "Fodé GC Tech",
+  "description": "Cours, exercices, calculateurs et gestion de chantier",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#173b32",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
